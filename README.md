@@ -78,13 +78,15 @@ src="https://api.daily.dev/devcards/002f751f4d4d4a838f6cf591fffa5379.png?r=y2s" 
   <a href="https://dev.to/jorgemr" target="_blank">
     <img align="center" alt="My Dev.to link" height="50" width="50" src="assests/devtologo.png"/>
 </a> &nbsp;&nbsp;
+    
+    <a href="https://dev.to/jorgemr" target="_blank">
+    <img align="center" alt="My Dev.to link" height="50" width="50" src="assests/devtologo.png"/>
+</a> &nbsp;&nbsp;
   <a>
     <img align="center" alt="Join My Discord Server" height="50" width="50" src="assests/discordlogo.png"/>
     <span>Jorge...#0564</span>
       
-      <a href="https://www.instagram.com/jorge._.mr/" target="_blank">
-    <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
-  </a> &nbsp;&nbsp;
+     
 </p> 
     
     
