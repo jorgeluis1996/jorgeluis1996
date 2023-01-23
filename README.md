@@ -75,7 +75,7 @@ src="https://api.daily.dev/devcards/002f751f4d4d4a838f6cf591fffa5379.png?r=y2s" 
     <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
   </a> &nbsp;&nbsp;
 
-  <a href="https://dev.to/jorgeluis1996" target="_blank">
+  <a href="https://dev.to/jorgemr" target="_blank">
     <img align="center" alt="My Dev.to link" height="50" width="50" src="assests/devtologo.png"/>
 </a> &nbsp;&nbsp;
   <a>
