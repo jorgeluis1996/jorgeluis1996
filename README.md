@@ -71,16 +71,16 @@ src="https://api.daily.dev/devcards/002f751f4d4d4a838f6cf591fffa5379.png?r=y2s" 
     <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
   </a> &nbsp;&nbsp;
   
-  <a href="mailto:eparksuncafe@gmail.com" target="_blank">
+  <a href="mailto:mjorgito29e@gmail.com" target="_blank">
     <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
   </a> &nbsp;&nbsp;
 
-  <a href="https://dev.to/hyuncafe" target="_blank">
+  <a href="https://dev.to/jorgeluis1996" target="_blank">
     <img align="center" alt="My Dev.to link" height="50" width="50" src="assests/devtologo.png"/>
 </a> &nbsp;&nbsp;
   <a>
     <img align="center" alt="Join My Discord Server" height="50" width="50" src="assests/discordlogo.png"/>
-    <span>HyunSun#7206</span>
+    <span>Jorge...#0564</span>
 </p> 
     
     
