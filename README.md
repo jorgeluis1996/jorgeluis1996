@@ -66,6 +66,10 @@ src="https://api.daily.dev/devcards/002f751f4d4d4a838f6cf591fffa5379.png?r=y2s" 
   <a href="https://www.linkedin.com/in/jorge-muniz-repoma/" target="_blank">
     <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
   </a> &nbsp;&nbsp;
+    
+    <a href="https://www.instagram.com/jorge._.mr/" target="_blank">
+    <img align="center" alt="Instagram logo" height="50" width="50" src="assests/linkedinlogo.png"/>
+  </a> &nbsp;&nbsp;
   
   <a href="https://profile-summary-for-github.herokuapp.com/user/jorgeluis1996" target="_blank">
     <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
