@@ -101,7 +101,7 @@ src="https://api.daily.dev/devcards/002f751f4d4d4a838f6cf591fffa5379.png?r=y2s" 
     
     
 
-I'm a developer   
+social networks   
 <br/>
  
 <a href="https://www.linkedin.com/in/jorge-muñiz-repoma-80ab3a23a/">
@@ -124,9 +124,8 @@ I'm a developer
 
 <br />
 
-## Languages and Tools 
 
-![Milumon's github stats](https://github-readme-stats.vercel.app/api?username=jorgeluis1996&show_icons=true&hide_border=true)
+
 
 
 <!--
