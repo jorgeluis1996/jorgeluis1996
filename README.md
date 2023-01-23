@@ -71,7 +71,7 @@ src="https://api.daily.dev/devcards/002f751f4d4d4a838f6cf591fffa5379.png?r=y2s" 
     <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
   </a> &nbsp;&nbsp;
   
-  <a href="mailto:mjorgito29e@gmail.com" target="_blank">
+  <a href="mailto:mjorgito29@gmail.com" target="_blank">
     <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
   </a> &nbsp;&nbsp;
 
@@ -107,7 +107,7 @@ social networks
 <a href="https://www.linkedin.com/in/jorge-muñiz-repoma-80ab3a23a/">
 <img align="left" alt="Jorge LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a> 
-<a href="https://www.instagram.com/jorge._.mr/">
+<a href="https://www.instagram.com/jorge_nfmr/">
 <img align="left" alt="Jorge Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" /> 
 
 <br />
