@@ -16,15 +16,15 @@ src="https://api.daily.dev/devcards/002f751f4d4d4a838f6cf591fffa5379.png?r=y2s" 
 
 
 <!--## Hello 🌎  It's Jorge!-->
-* 🌳 I’m currently learning Vanilla JavaScript! <br><br><br>
+* 🌳🌎 I’am currently learning JavaScript, React, and other full stack developer languages.! <br><br><br>
 
-* 🐾 I’m looking to network and make friends here! <br><br><br>
+* 🐾🌍 I’am looking to establish contacts and give help to those who want to! <br><br><br>
 
-* 🌊 2023 Goals: Contribute more to Open Source projects <br><br><br>
+* 🌊🎃 Contribute to the projects I'm developing as a group. <br><br><br>
 
-* ☕ Interest: Cats, Coffee, and Coding. <br><br><br>
+* ☕ Interests: Work, Systems Development and Programming. <br><br><br>
 
-* :octocat: Hobbies: Sleeping, Anime/Manga, Gacha Games, Discord, and Reddit. <br><br>
+* :octocat: Hobbies: Working, Anime/Manga, eating pizza, Listening to Muisca, Studying, and Helping.. <br><br>
 
 <h2></h2><br>
 
