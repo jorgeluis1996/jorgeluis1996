@@ -45,7 +45,7 @@ src="https://api.daily.dev/devcards/002f751f4d4d4a838f6cf591fffa5379.png?r=y2s" 
   
 <div align="center">
   <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=HyunCafe&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=jorgeluis1996&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
     
   <img src="https://github-readme-stats-i66v.vercel.app/api/top-langs/?username=HyunCafe&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages"> <br>
 
