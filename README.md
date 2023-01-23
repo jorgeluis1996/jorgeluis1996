@@ -1,11 +1,5 @@
 ### Hi there 👋
-<!-- My Readme Profile!
-I spent a lot of time to make my Readme, and if you like it feel free to take inspiration!
 
-**Acknowledgements**
-Awesome Readme Templates
-Awesome README
-How to write a Good readme-->
 
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Hyun+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Hyun Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
@@ -15,6 +9,8 @@ How to write a Good readme-->
 </p> <br>
 
 <a href="https://app.daily.dev/HyunCafe"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="HyunSun's Dev Card" /></a>
+
+<h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
 
 ## Hello 🌎  It's Jorge!
 I'm a developer   
