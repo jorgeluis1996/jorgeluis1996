@@ -5,7 +5,7 @@
 <img  src="assests/borderseperator.gif">
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=HyunCafe&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
+    <img src="https://komarev.com/ghpvc/?username=jorgeluis1996&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
 
 <a href="https://app.daily.dev/JorgeM"><img align='right'
