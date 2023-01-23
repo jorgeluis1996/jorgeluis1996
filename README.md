@@ -36,7 +36,7 @@ src="https://api.daily.dev/devcards/002f751f4d4d4a838f6cf591fffa5379.png?r=y2s" 
   <h2> <strong> Actively Learning </strong></h2>
   <img src="https://skillicons.dev/icons?i=github,cs,linux,swift,nodejs,net,html,css,php,wordpress,aws,idea" alt="skills actively learning logos"> <br> 
   <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=py,react,bootstrap,sass,ts,netlify" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=py,react,bootstrap,angular,ts,arduino,figma,firebase,git,jquery,mysql,nodejs,spring,sqlite,visualstudio,vscode" alt="skills planning to learn logos">
 </div>
 
 <p align="center"><br>
